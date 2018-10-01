@@ -23,7 +23,7 @@ Acesse a pasta onde a aplicação foi baixada e execute o seguinte comando.
 mvn package
 ```
 
-Após esse commando, execute a aplicação com o comando:
+Após esse comando, execute a aplicação com o comando:
 
 ```
 java -jar target/detecta-vogais-0.0.1.jar aAbBABacafe
